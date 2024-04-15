@@ -1,0 +1,118 @@
+[
+  {
+    "uuid": "815b3b91-e1d6-41f8-a488-10e4a6d43f74",
+    "serial": 1,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "機具1-1",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "843cbca3-39f2-4bd0-b59a-a8e416d33efd",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "34dfed53-dd55-74e6-44b5-3e50faa9d24e",
+      "60637255-1e0c-b3ef-cf0f-888f5b758c17",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R0",
+        "state": "0>1",
+        "light": "R",
+        "note": "Running"
+      }
+    ],
+    "created_time": 1712905193492,
+    "updated_time": 1712911824101
+  },
+  {
+    "uuid": "cde8987d-ecf7-4f90-a3c5-50cd03706e48",
+    "serial": 2,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "機具1-2",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "843cbca3-39f2-4bd0-b59a-a8e416d33efd",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "d21a620f-6a95-709a-af71-8a25125af0c5",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R2",
+        "state": "0>1",
+        "light": "R",
+        "note": "Pause"
+      }
+    ],
+    "created_time": 1712911540653,
+    "updated_time": 1712911835108
+  },
+  {
+    "uuid": "485b6bc2-0a90-4b0f-beb3-98082d588ec2",
+    "serial": 3,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "機具2-1",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "274d8b27-cccd-469a-954d-88adfccde80b",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "6f64e48d-3c17-f805-037c-fb7cc0024284",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R0",
+        "state": "0>1",
+        "light": "R",
+        "note": "Fault"
+      }
+    ],
+    "created_time": 1712911871946,
+    "updated_time": 1712911871946
+  },
+  {
+    "uuid": "823f367b-6747-4843-85e3-2cf314437680",
+    "serial": 4,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "機具3-1",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "f401ef6a-42c8-42ae-b71a-c76ceacc5b46",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "34dfed53-dd55-74e6-44b5-3e50faa9d24e",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R15",
+        "state": "0>1",
+        "light": "R",
+        "note": "Pause"
+      }
+    ],
+    "created_time": 1712911902931,
+    "updated_time": 1712911902931
+  }
+]

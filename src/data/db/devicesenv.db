@@ -1,0 +1,86 @@
+[
+  {
+    "uuid": "515c32fa-8bdd-4651-9589-943350bb1b95",
+    "serial": 1,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "環控1",
+    "model": "SEN1101TH",
+    "typeId": "env",
+    "protocol": "modbus",
+    "group": "843cbca3-39f2-4bd0-b59a-a8e416d33efd",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "key": "T",
+        "item": "temperature",
+        "unit": "°C"
+      }
+    ],
+    "created_time": 1712911605335,
+    "updated_time": 1712911605335
+  },
+  {
+    "uuid": "b9191832-b92c-48f7-b41e-12370d504a1b",
+    "serial": 2,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "環控2",
+    "model": "SEN1101TH",
+    "typeId": "env",
+    "protocol": "modbus",
+    "group": "274d8b27-cccd-469a-954d-88adfccde80b",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "key": "T",
+        "item": "temperature",
+        "unit": "°C"
+      }
+    ],
+    "created_time": 1712911955678,
+    "updated_time": 1712911955678
+  },
+  {
+    "uuid": "2dc7710f-cc56-4116-b2cb-ffdf4cd9e15f",
+    "serial": 3,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "8d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "環控3",
+    "model": "SEN1101TH",
+    "typeId": "env",
+    "protocol": "modbus",
+    "group": "f401ef6a-42c8-42ae-b71a-c76ceacc5b46",
+    "areaId": "",
+    "locationId": "",
+    "camera": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "key": "T",
+        "item": "temperature",
+        "unit": "°C"
+      }
+    ],
+    "created_time": 1712911979395,
+    "updated_time": 1712911979395
+  }
+]

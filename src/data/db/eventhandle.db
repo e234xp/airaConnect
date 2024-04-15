@@ -1,0 +1,137 @@
+[
+  {
+    "uuid": "e419ab43-adc8-4444-a5f2-ffe555f0ea6c",
+    "name": "asdfsdf",
+    "actionType": "http",
+    "enable": false,
+    "targetType": "group",
+    "targetList": [
+      "843cbca3-39f2-4bd0-b59a-a8e416d33efd"
+    ],
+    "remark": "",
+    "notify": {
+      "https": false,
+      "user": "",
+      "pass": "",
+      "dataType": "json",
+      "method": "GET",
+      "note": "",
+      "url": "",
+      "customData": ""
+    },
+    "condition": [
+      {
+        "id": "1712905523796",
+        "object": "843cbca3-39f2-4bd0-b59a-a8e416d33efd",
+        "type": "mac",
+        "match": "every",
+        "param": "R",
+        "opt": "=",
+        "val": "1"
+      },
+      {
+        "id": "1712905575906",
+        "object": "",
+        "type": "mac",
+        "match": "any",
+        "param": "O",
+        "opt": "=",
+        "val": "1"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 2,
+          "hoursList": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    "created_time": 1712905611447,
+    "updated_time": 1712905611447
+  }
+]

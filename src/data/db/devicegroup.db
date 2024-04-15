@@ -1,0 +1,65 @@
+[
+  {
+    "uuid": "All Machinery",
+    "name": "All Machinery",
+    "list": [],
+    "created": 1712042279961,
+    "remark": "asfasdf",
+    "updated_time": 1712887149738
+  },
+  {
+    "uuid": "All Environmental",
+    "name": "All Environmental",
+    "list": [],
+    "created": 1712042279961,
+    "remark": ""
+  },
+  {
+    "uuid": "All ElectricMeter",
+    "name": "All ElectricMeter",
+    "list": [],
+    "created": 1712042279961,
+    "remark": ""
+  },
+  {
+    "uuid": "All AirCompressor",
+    "name": "All AirCompressor",
+    "list": [],
+    "created": 1712042279961,
+    "remark": ""
+  },
+  {
+    "uuid": "843cbca3-39f2-4bd0-b59a-a8e416d33efd",
+    "name": "塗裝區1",
+    "list": [
+      "815b3b91-e1d6-41f8-a488-10e4a6d43f74",
+      "cde8987d-ecf7-4f90-a3c5-50cd03706e48",
+      "515c32fa-8bdd-4651-9589-943350bb1b95"
+    ],
+    "remark": "",
+    "created_time": 1712905282402,
+    "updated_time": 1712911750497
+  },
+  {
+    "uuid": "274d8b27-cccd-469a-954d-88adfccde80b",
+    "name": "塗裝區2",
+    "list": [
+      "b9191832-b92c-48f7-b41e-12370d504a1b",
+      "485b6bc2-0a90-4b0f-beb3-98082d588ec2"
+    ],
+    "remark": "",
+    "created_time": 1712911789805,
+    "updated_time": 1712911992233
+  },
+  {
+    "uuid": "f401ef6a-42c8-42ae-b71a-c76ceacc5b46",
+    "name": "塗裝區3",
+    "list": [
+      "823f367b-6747-4843-85e3-2cf314437680",
+      "2dc7710f-cc56-4116-b2cb-ffdf4cd9e15f"
+    ],
+    "remark": "",
+    "created_time": 1712911802633,
+    "updated_time": 1712912001941
+  }
+]
